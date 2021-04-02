@@ -19,11 +19,11 @@ locale                   : "ko"
 title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "chm6188"
+name                     : "chmm0616"
 description              : "시스템 프로그램을 위한 C언어"
-url                      : "https://chm6188.github.io"
+url                      : "https://chmm0616.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "chm6188/chmm6188.github.io"
+repository               : "chmm0616/chmm0616.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "chm6188-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "chmm0616-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "chm6188"
+  name             : "chmm0616"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "대한민국"
